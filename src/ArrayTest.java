@@ -18,7 +18,7 @@ public class ArrayTest {
 		//create and run tests on 1000 arrays
 		for (int i=0; i<1000; i++){
 			
-			//create arrays of random length. all have the same length
+			//create arrays of random length. the 3 must have the same length
 			//second two will get sorted. Length must be between 1 and 1000
 			//so JVM doesn't run out of memory
 		
